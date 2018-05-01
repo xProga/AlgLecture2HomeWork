@@ -1,0 +1,7 @@
+C:\Users\Proga\Documents\Visual Studio 2017\Projects\!Алгоритмы\Lecture2HomeWork\Lecture2HomeWork\bin\Debug\Lecture2HomeWork.exe.config
+C:\Users\Proga\Documents\Visual Studio 2017\Projects\!Алгоритмы\Lecture2HomeWork\Lecture2HomeWork\bin\Debug\Lecture2HomeWork.exe
+C:\Users\Proga\Documents\Visual Studio 2017\Projects\!Алгоритмы\Lecture2HomeWork\Lecture2HomeWork\bin\Debug\Lecture2HomeWork.pdb
+C:\Users\Proga\Documents\Visual Studio 2017\Projects\!Алгоритмы\Lecture2HomeWork\Lecture2HomeWork\obj\Debug\Lecture2HomeWork.csprojResolveAssemblyReference.cache
+C:\Users\Proga\Documents\Visual Studio 2017\Projects\!Алгоритмы\Lecture2HomeWork\Lecture2HomeWork\obj\Debug\Lecture2HomeWork.csproj.CoreCompileInputs.cache
+C:\Users\Proga\Documents\Visual Studio 2017\Projects\!Алгоритмы\Lecture2HomeWork\Lecture2HomeWork\obj\Debug\Lecture2HomeWork.exe
+C:\Users\Proga\Documents\Visual Studio 2017\Projects\!Алгоритмы\Lecture2HomeWork\Lecture2HomeWork\obj\Debug\Lecture2HomeWork.pdb
